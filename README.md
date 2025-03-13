@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-##🚀 Tech Stack
+## 🚀 Tech Stack
 
 ### Languages
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
@@ -37,7 +37,6 @@
 ![MapStruct](https://img.shields.io/badge/MapStruct-5C6B6B?style=flat&logo=mapstruct&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=white)
 ![Lombok](https://img.shields.io/badge/Lombok-2C2F3D?style=flat&logo=lombok&logoColor=white)
-![OVIS](https://img.shields.io/badge/OVIS-29A5D2?style=flat&logo=ovis&logoColor=white)
 ![XML](https://img.shields.io/badge/XML-FF4F00?style=flat&logo=xml&logoColor=white)
 
 <!--
